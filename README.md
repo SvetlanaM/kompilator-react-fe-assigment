@@ -10,6 +10,7 @@
 
 ## Select Box
 Only closed state. For open use default browser design.
+
 ![Default textarea](/public/select_box.png)
 
 ## Buttons
